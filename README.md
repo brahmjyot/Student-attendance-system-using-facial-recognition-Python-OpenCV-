@@ -37,7 +37,7 @@ This system works accordingly with a series of step explained below:
 1. **DATA COLLECTION**:
 <br>
 
-![capture](h)
+![capture](https://github.com/brahmjyot/Student-attendance-system-using-facial-recognition-Python-OpenCV-/blob/2b9d289871765713fa3dc758f4a6c4e562ccf7fa/Screenshot%202025-04-18%20095953.png)
 
 
 
@@ -50,16 +50,13 @@ The notification board will print out the student details after a succesfull dat
 
 <br>
 
-![capture2]()
-
-
 
 2. **IMAGE TRAINED**
 
 The student has to click on the  **TRAIN IMAGE** button which will link his details, face features to the **LBPHrecognizer** to ease further face recognition,
 the recognizer will save the face features in the **trainner.yml** and "IMAGE TRAINED" will be printed on the GUI notification board after a successfull linkage.
 
-![capture3]()
+![capture3](https://github.com/brahmjyot/Student-attendance-system-using-facial-recognition-Python-OpenCV-/blob/2b9d289871765713fa3dc758f4a6c4e562ccf7fa/Screenshot%202025-04-17%20225733.png)
 
 3. **FACE TRACKING**
 
@@ -68,7 +65,7 @@ Simustenously, a csv file **AttendanceFile.csv'** will be updated with the ID,NA
 the Unkown face captured will be store in the **UnkownImages** folder.<br>
 
 
-![capture3]()
+![capture3](https://github.com/brahmjyot/Student-attendance-system-using-facial-recognition-Python-OpenCV-/blob/2b9d289871765713fa3dc758f4a6c4e562ccf7fa/Screenshot%202025-04-18%20100103.png)
 
 
 ## 🔑 PEREQUISITES
