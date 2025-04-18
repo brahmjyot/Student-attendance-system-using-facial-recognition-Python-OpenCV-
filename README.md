@@ -59,6 +59,7 @@ The notification board will print out the student details after a succesfull dat
 The student has to click on the  **TRAIN IMAGE** button which will link his details, face features to the **LBPHrecognizer** to ease further face recognition,
 the recognizer will save the face features in the **trainner.yml** and "IMAGE TRAINED" will be printed on the GUI notification board after a successfull linkage.
 
+![capture3]()
 
 3. **FACE TRACKING**
 
